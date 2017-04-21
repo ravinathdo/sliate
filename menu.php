@@ -10,7 +10,7 @@
                         </ul>
                     </li>
                     <li><a href="#">Administration</a></li>
-                    <li><a href="#">Contact Information</a></li>
+                    <li><a href="contact_us.php">Contact Information</a></li>
                     <li><a href="#">Research</a></li>
                     <li><a href="#">Gallery</a></li>
                     <li class="last"><a href="#">Notice</a></li>
