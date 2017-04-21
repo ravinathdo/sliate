@@ -16,8 +16,8 @@ Licence URI: http://www.os-templates.com/template-terms
 
 <style type="text/css">
 #leftContent{
-	width: 70%;
-	float: left;
+	width: 100%;
+	/*float: left;*/
 	 text-align: justify;
     text-justify: inter-word;
 	}
@@ -32,8 +32,9 @@ Licence URI: http://www.os-templates.com/template-terms
 
 </head>
 <body id="top">
-<div class="wrapper row1">
-  <?php include('header.php');?>
+<div class=" row1">
+  
+  <img src="images/SLIATE.png" width="100%" height="87" />
 </div>
 <!-- ####################################################################################################### -->
 <div class="wrapper row2">
@@ -62,7 +63,7 @@ The prime objective of this “Student Handbook” is to guide the students and make
     <td colspan="2"><h1>Message from the Director General</h1></td>
     </tr>
   <tr>
-    <td width="21%"><img src="images/Director General.png" /></td>
+    <td width="21%" valign="top"><img src="images/Director General.png" /></td>
     <td width="79%" valign="top"><br>
     Dr. W. Hilary E.Silva<br>
 PhD; MA (Accounting & Finance); PGD; B.Com<br><br>
@@ -90,36 +91,17 @@ I have no doubt that you all would make best use of the academic life and emerge
 
     
     </div><!--leftContent-->
+    
+    <!--
   <div id="rightContent">right</div>
-  
+  -->
   
   
   
     <!-- ####################################################################################################### -->
     
    
-        
-    <h3>Headline 3 Colour and Size</h3>
-    <h4>Headline 4 Colour and Size</h4>
-    <h5>Headline 5 Colour and Size</h5>
-    <h6>Headline 6 Colour and Size</h6>
-    <p>This is a W3C compliant free website template from <a href="http://www.os-templates.com/" title="Free Website Templates">OS Templates</a>. This template is distributed using a <a href="http://www.os-templates.com/template-terms">Website Template Licence</a>.</p>
-    <p>You can use and modify the template for both personal and commercial use. You must keep all copyright information and credit links in the template and associated files. For more CSS templates visit <a href="http://www.os-templates.com/">Free Website Templates</a>.</p>
-    <ul>
-      <li>Lorem ipsum dolor sit amet, consectetur adipiscing elit.</li>
-      <li>Etiam vel sapien et est adipiscing commodo.</li>
-      <li>Duis pharetra eleifend sapien, id faucibus dolor rutrum et.</li>
-      <li>Donec et dui dolor, in lacinia leo.</li>
-      <li>Mauris posuere tellus ac purus adipiscing dapibus.</li>
-    </ul>
-    <p>Vestibulumaccumsan egestibulum eu justo convallis augue estas aenean elit intesque sed. Facilispede estibulum nulla orna nisl velit elit ac aliquat non tincidunt. Namjusto cras urna urnaretra lor urna neque sed quis orci nulla. Laoremut vitae doloreet condimentumst phasellentes dolor ut a ipsum id consectetus. Inpede cumst vitae ris tellentesque fring intesquet nibh fames nulla curabitudin.</p>
-    <ol>
-      <li>Lorem ipsum dolor sit amet, consectetur adipiscing elit.</li>
-      <li>Etiam vel sapien et est adipiscing commodo.</li>
-      <li>Duis pharetra eleifend sapien, id faucibus dolor rutrum et.</li>
-      <li>Donec et dui dolor, in lacinia leo.</li>
-      <li>Mauris posuere tellus ac purus adipiscing dapibus.</li>
-    </ol>
+
     <!-- ####################################################################################################### -->
     <div class="clear"></div>
   </div>
@@ -129,19 +111,18 @@ I have no doubt that you all would make best use of the academic life and emerge
   <div id="footer" class="clear"> 
     <!-- ####################################################################################################### -->
     <div class="foot_contact">
-      <h2>University Name Here</h2>
+      <h5>Sri Lanka Institute of Advanced Technological Education </h5>
       <address>
-      Address Line 1<br />
-      Address Line 2<br />
-      Town/City<br />
-      Postcode/Zip
+  	 
+      No 320,<br> T.B. Jaya Mawatha,<br> Colombo 10.
       </address>
       <ul>
-        <li><strong>Tel:</strong> xxxxx xxxxxxxxxx</li>
-        <li><strong>Fax:</strong> xxxxx xxxxxxxxxx</li>
-        <li class="last"><strong>Email:</strong> <a href="#">contact@mydomain.com</a></li>
+        <li><strong>Tel:</strong>0112 691307, 0112 691572</li>
+        <li><strong>Fax:</strong>0112 691307, 0112 691572</li>
       </ul>
     </div>
+    
+    <!--
     <div class="footbox">
       <h2>Administration</h2>
       <ul>
@@ -184,14 +165,18 @@ I have no doubt that you all would make best use of the academic life and emerge
         <li class="last"><a href="#">Residential Colleges</a></li>
       </ul>
     </div>
+    
+    
+    -->
+    
     <!-- ####################################################################################################### --> 
   </div>
 </div>
 <!-- ####################################################################################################### -->
 <div class="wrapper">
   <div id="copyright" class="clear">
-    <p class="fl_left">Copyright &copy; 2014 - All Rights Reserved - <a href="#">Domain Name</a></p>
-    <p class="fl_right">Template by <a target="_blank" href="http://www.os-templates.com/" title="Free Website Templates">OS Templates</a></p>
+    <p class="fl_left">Copyright &copy; 2017 - All Rights Reserved - <a href="sliate.ac.lk">sliate.ac.lk</a></p>
+<!--    <p class="fl_right">Template by <a target="_blank" href="http://www.os-templates.com/" title="Free Website Templates">OS Templates</a></p> -->
   </div>
 </div>
 </body>

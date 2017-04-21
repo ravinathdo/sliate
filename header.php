@@ -1,12 +1,12 @@
 <div id="header" class="clear">
-
+<!--
                 <div id="logo-sliate"><img src="images/sliate-logo.png" width="82" height="99"/></div>
-                <div class="sliate-center" > <!-- <div class="fl_left sliate-center" > -->
+                <div class="sliate-center" > 
                     <h4><a href="index.html">Sri Lanka Institute Of Advanced Technological Education </a></h4>
                     <h5>Ministry of Higher Education</h5>
                 </div>
                 <div id="logo-gov"><img src="images/gov-logo.png" width="82" height="99"/></div>
-
+-->
 
                 <!--
                 <form action="#" method="post" id="login">
