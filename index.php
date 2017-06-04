@@ -79,7 +79,7 @@ Licence URI: http://www.os-templates.com/template-terms
                 <p>    Sri Lanka Institute of Advanced Technological Education (SLIATE) was established under the provisions of the parliamentary act of No. 29 of 1995 under the Ministry of Higher Education. SLIATE operates 20 Institutes including 12 Advanced Technological Institutes and 08 Advanced Technological Institute Section. There are 14 Higher National Diploma Courses in various disciplines conducted in them. <br><br>
                 The Governing Council of SLIATE is the supreme authority decides the administrative and policy matters of the Institute and the Academic Syndicate is accountable for the academic matters. The Chief Executive Officer of SLIATE is the Director General. The Head of an Advanced Technological Institute is the Director and the Academic Coordinator is the Head of an Advanced Technological Institute Section.  <br><br>
                 The development of the SLIATE in both physical and human resources during the last 20 years is remarkable. New Institutes were commenced and new courses were introduced. The whole effort of SLIATE is to create knowledgeable, skillful diploma holders with healthy attitudes based on the mission. <br><br>
-                The prime objective of this “Student Handbook” is to guide the students and make a systematic, lawful and peaceful environment in the Institutes which enables students to boost their education, creativity and talents. 
+                The prime objective of this ï¿½Student Handbookï¿½ is to guide the students and make a systematic, lawful and peaceful environment in the Institutes which enables students to boost their education, creativity and talents. 
                 </p>
 
 
@@ -308,5 +308,8 @@ Licence URI: http://www.os-templates.com/template-terms
                                             cycleSpeed: 6000, // time between slide cycles
                                         });
         </script>
+        
+        
+        
     </body>
 </html>
